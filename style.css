@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+ol {
+  list-style-type: upper-alpha;
+}
+
+
+
+code {
+  font-family: monospace;
+  background-color: #e7e7e7;
+  padding: 3px;
+}
